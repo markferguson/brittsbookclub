@@ -1,0 +1,16 @@
+{
+  "name": "brittsbookclub",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "foundation-sites": "^6.6.3",
+    "motion-ui": "^2.0.3",
+    "normalize-scss": "^7.0.1",
+    "what-input": "^5.2.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markferguson/brittsbookclub.git"
+  }
+}

@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+  letter-spacing: -0.012em;
+}
+
+.fonts {
+  &.museo-slab {
+    font-family: museo-slab, serif;
+    font-weight: 500;
+  }
+  &.caflisch-script-pro {
+    font-family: caflisch-script-pro, sans-serif;
+    font-weight: 400;
+  }
+}
+
+* > p:last-child {
+  margin-bottom: 0;
+}

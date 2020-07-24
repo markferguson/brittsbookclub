@@ -1,0 +1,23 @@
+.mainHeader {
+  &__stripes {
+    background-image: url("../images/stripes.jpg");
+    background-repeat: repeat-x;
+    background-position: top left;
+    height: rem-calc(34);
+    box-shadow: 0px 10px 16px -7px rgba(0,0,0,0.4);
+    position: relative;
+    z-index: 2;
+  }
+
+  &__logoContainer {
+    background: linear-gradient(to bottom,  #bfdbf2 0%,#e6f1fb 100%);
+    padding: $global-padding;
+    box-shadow: 0px 10px 16px -7px rgba(0,0,0,0.4);
+    position: relative;
+    z-index: 1;
+  }
+
+  &__logo {
+    width: rem-calc(430);
+  }
+}
