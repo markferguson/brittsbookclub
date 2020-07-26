@@ -60,5 +60,5 @@ livereload: true
 #   - vendor/ruby/
 
 include:
-  - node_modules
-  - vendor
+  - node_modules/
+  - vendor/
