@@ -58,3 +58,6 @@ livereload: true
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+  - vendor/
