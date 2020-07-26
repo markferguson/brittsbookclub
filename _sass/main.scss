@@ -4,9 +4,9 @@
 @import url("https://use.typekit.net/jdf2rdk.css");
 
 @import "util/settings";
-@import "../node_modules/normalize-scss/sass/normalize";
-@import "../node_modules/foundation-sites/scss/foundation";
-@import "../node_modules/motion-ui/src/motion-ui";
+@import "normalize/normalize";
+@import "foundation/foundation";
+@import "motion-ui/motion-ui";
 
 @include foundation-global-styles;
 // @include foundation-grid;
